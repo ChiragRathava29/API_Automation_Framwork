@@ -1,4 +1,4 @@
-package com.ChiragRathava.ex10_PayloadMangement.gson;
+package com.ChiragRathava.pojos;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
