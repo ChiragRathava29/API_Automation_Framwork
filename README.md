@@ -70,6 +70,7 @@ To run tests in parallel, add the parallel attribute to your testng.xml file:
 
 
 ```allure serve allure-results/```
+
 ![Allure_Report](https://github.com/user-attachments/assets/420cd0f4-5fd5-4ddf-a599-d38f5c51f4e6)
 
 Certainly! I'll guide you through the steps to install Allure and generate a report for a Java project using TestNG. Here's a step-by-step process:
